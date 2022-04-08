@@ -6,7 +6,7 @@
 name: Roman's Python Blogpost
 
 # Short bio or description (displayed in the header)
-description: This is a description
+description: This is my blogpost and nobody else's
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://europe.yamaha.com/en/files/yc88_title_c7ff744d7188f55de32a08d8abd2a72a.jpg?impolicy=resize&imwid=870&imhei=400
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: HarlinLee/HarlinLee.github.io # replace with your repo
+  github: romakouz/romakouz.github.io # replace with your repo
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://romakouz.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
