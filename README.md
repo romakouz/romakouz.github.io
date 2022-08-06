@@ -1,3 +1,5 @@
-# PIC16B Demonstration Website
+# Personal Blog with Python Projects
 
-This repository hosts a demonstration website for use of students in PIC16B, a course in computational science with Python taught at UCLA. It is lightly modified from Barry Clark's excellent [Jekyll Now](https://www.jekyllnow.com/). 
+This repository hosts a blog website deployed using Jekyll, with various projects involving various python applications in a tutorial format, created during the UCLA PIC16B course.
+The blog post website can be found here: https://romakouz.github.io/.
+The sudoku solving github can be found here: https://github.com/romakouz/sudoku.project.
