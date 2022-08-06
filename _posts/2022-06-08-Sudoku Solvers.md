@@ -6,6 +6,7 @@ author: Gursimrit, Roman, Nicola
 ---
 In this blog post we'll talk about how we used deep learning to create a Sudoku solver. The link to our Github repo can be found here: https://github.com/romakouz/sudoku.project. In the repository there is also a helpful README file that you guys can check out.
 
+ <!--more-->
 
 ## Project Overview
 Sudoku is a game enjoyed by millions of people and we wanted to create a web app where people could upload images of their sudoku puzzles and have them be solved.
