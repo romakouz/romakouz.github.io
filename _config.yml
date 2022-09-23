@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Roman's Python Blogpost
+name: Roman Kouznetsov Python Blog
 
 # Short bio or description (displayed in the header)
 description: Various coding projects implemented using Python, provided in a tutorial format.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://europe.yamaha.com/en/files/yc88_title_c7ff744d7188f55de32a08d8abd2a72a.jpg?impolicy=resize&imwid=870&imhei=400
+avatar: https://avatars.githubusercontent.com/u/67249384?s=400&u=b061a3567fb70a2d34b373906e65bff76eee3b81&v=4
 
 excerpt_separator: <!--more-->
 #
